@@ -1,0 +1,18 @@
+import os
+import sys
+import urllib.request
+import json
+client_id = "8MRyI57fRtUYegAgKsoo"
+client_secret = "yL6IUMzKbN"
+encText = urllib.parse.quote("크리스마스")
+url = "https://openapi.naver.com/v1/search/blog.json?query=" + encText
+request = urllib.request.Request(url)
+request.add_header("X-Naver-Client-Id", client_id)
+request.add_header("X-Naver-Client-Secret", clinet_secret)
+response = urllib.request.urlopen(request)
+rescode = response.getcode()
+if(rescode =- 200) :
+    response_body = response.read()
+    print(response_body.decode('utf-8'))
+else:
+    print("Error Code:" + rescoe)

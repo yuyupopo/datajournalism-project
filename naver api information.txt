@@ -1,0 +1,7 @@
+find_all div, class_=="thumb thumb-rollover"
+div.a.h[ref]
+
+Client ID: 8MRyI57fRtUYegAgKsoo
+Cliend Secret: yL6IUMzKbN
+
+API 호출 예제 https://developers.naver.com/docs/search/blog/

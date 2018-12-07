@@ -1,0 +1,10 @@
+서울시 api key: 42467970507368303731506c745754
+json parser site: http://json.parser.online.fr/
+
+
+서울시 대중교통 수단별 이용현황(2017)
+http://openapi.seoul.go.kr:8088/42467970507368303731506c745754/json/CardLineStatisticsService/1/5/2017/
+
+서울시 지하철호선별 역별 승하차 인원정보(일자별)
+
+http://openapi.seoul.go.kr:8088/42467970507368303731506c745754/json/CardSubwayStatsNew/1/100/20151224

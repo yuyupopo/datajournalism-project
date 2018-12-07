@@ -7,4 +7,11 @@ http://openapi.seoul.go.kr:8088/42467970507368303731506c745754/json/CardLineStat
 
 서울시 지하철호선별 역별 승하차 인원정보(일자별)
 
-http://openapi.seoul.go.kr:8088/42467970507368303731506c745754/json/CardSubwayStatsNew/1/100/20151224
+http://openapi.seoul.go.kr:8088/42467970507368303731506c745754/json/CardSubwayStatsNew/1/1000/20151224
+
+USE_DT: 사용일자
+LINE_NUM: 호선명
+SUB_STA_NM: 역명
+RIDE_PASGR_NUM: 승차총승객수
+ALIGHT_PASGR_NUM: 하차총승객수
+WORK_DT: 등록일자

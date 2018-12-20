@@ -1,0 +1,4530 @@
+[
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc11c\uc6b8\uc5ed",
+		"RIDE_PASGR_NUM": 62180.0,
+		"ALIGHT_PASGR_NUM": 53198.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc2dc\uccad",
+		"RIDE_PASGR_NUM": 48312.0,
+		"ALIGHT_PASGR_NUM": 48050.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc885\uac01",
+		"RIDE_PASGR_NUM": 58874.0,
+		"ALIGHT_PASGR_NUM": 48075.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc885\ub85c3\uac00",
+		"RIDE_PASGR_NUM": 40674.0,
+		"ALIGHT_PASGR_NUM": 38345.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc885\ub85c5\uac00",
+		"RIDE_PASGR_NUM": 27831.0,
+		"ALIGHT_PASGR_NUM": 27215.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ub300\ubb38",
+		"RIDE_PASGR_NUM": 18198.0,
+		"ALIGHT_PASGR_NUM": 21587.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc124\ub3d9",
+		"RIDE_PASGR_NUM": 13109.0,
+		"ALIGHT_PASGR_NUM": 12368.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uc81c\uae30\ub3d9",
+		"RIDE_PASGR_NUM": 18769.0,
+		"ALIGHT_PASGR_NUM": 18802.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\uccad\ub7c9\ub9ac(\uc11c\uc6b8\uc2dc\ub9bd\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 30744.0,
+		"ALIGHT_PASGR_NUM": 32159.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "1\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ubb18\uc55e",
+		"RIDE_PASGR_NUM": 11165.0,
+		"ALIGHT_PASGR_NUM": 11966.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2dc\uccad",
+		"RIDE_PASGR_NUM": 31044.0,
+		"ALIGHT_PASGR_NUM": 26811.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc744\uc9c0\ub85c\uc785\uad6c",
+		"RIDE_PASGR_NUM": 65313.0,
+		"ALIGHT_PASGR_NUM": 55996.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc744\uc9c0\ub85c3\uac00",
+		"RIDE_PASGR_NUM": 15423.0,
+		"ALIGHT_PASGR_NUM": 13093.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc744\uc9c0\ub85c4\uac00",
+		"RIDE_PASGR_NUM": 10892.0,
+		"ALIGHT_PASGR_NUM": 10354.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ub300\ubb38\uc5ed\uc0ac\ubb38\ud654\uacf5\uc6d0",
+		"RIDE_PASGR_NUM": 20690.0,
+		"ALIGHT_PASGR_NUM": 24149.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub2f9",
+		"RIDE_PASGR_NUM": 13991.0,
+		"ALIGHT_PASGR_NUM": 14871.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\uc655\uc2ed\ub9ac",
+		"RIDE_PASGR_NUM": 9333.0,
+		"ALIGHT_PASGR_NUM": 8628.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc655\uc2ed\ub9ac(\uc131\ub3d9\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 18792.0,
+		"ALIGHT_PASGR_NUM": 17025.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ud55c\uc591\ub300",
+		"RIDE_PASGR_NUM": 5675.0,
+		"ALIGHT_PASGR_NUM": 5803.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ub69d\uc12c",
+		"RIDE_PASGR_NUM": 10673.0,
+		"ALIGHT_PASGR_NUM": 10647.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc131\uc218",
+		"RIDE_PASGR_NUM": 15790.0,
+		"ALIGHT_PASGR_NUM": 17539.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uac74\ub300\uc785\uad6c",
+		"RIDE_PASGR_NUM": 50170.0,
+		"ALIGHT_PASGR_NUM": 58712.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uad6c\uc758(\uad11\uc9c4\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 18872.0,
+		"ALIGHT_PASGR_NUM": 17410.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uac15\ubcc0(\ub3d9\uc11c\uc6b8\ud130\ubbf8\ub110)",
+		"RIDE_PASGR_NUM": 53370.0,
+		"ALIGHT_PASGR_NUM": 52322.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc7a0\uc2e4\ub098\ub8e8",
+		"RIDE_PASGR_NUM": 11934.0,
+		"ALIGHT_PASGR_NUM": 11057.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc7a0\uc2e4(\uc1a1\ud30c\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 106017.0,
+		"ALIGHT_PASGR_NUM": 96445.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc7a0\uc2e4\uc0c8\ub0b4",
+		"RIDE_PASGR_NUM": 25696.0,
+		"ALIGHT_PASGR_NUM": 26636.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc885\ud569\uc6b4\ub3d9\uc7a5",
+		"RIDE_PASGR_NUM": 13378.0,
+		"ALIGHT_PASGR_NUM": 15164.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc0bc\uc131(\ubb34\uc5ed\uc13c\ud130)",
+		"RIDE_PASGR_NUM": 54529.0,
+		"ALIGHT_PASGR_NUM": 56178.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc120\ub989",
+		"RIDE_PASGR_NUM": 26700.0,
+		"ALIGHT_PASGR_NUM": 22577.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc5ed\uc0bc",
+		"RIDE_PASGR_NUM": 20910.0,
+		"ALIGHT_PASGR_NUM": 22258.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uac15\ub0a8",
+		"RIDE_PASGR_NUM": 81488.0,
+		"ALIGHT_PASGR_NUM": 87076.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uad50\ub300(\ubc95\uc6d0.\uac80\ucc30\uccad)",
+		"RIDE_PASGR_NUM": 21971.0,
+		"ALIGHT_PASGR_NUM": 24657.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc11c\ucd08",
+		"RIDE_PASGR_NUM": 13363.0,
+		"ALIGHT_PASGR_NUM": 12794.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ubc29\ubc30",
+		"RIDE_PASGR_NUM": 13141.0,
+		"ALIGHT_PASGR_NUM": 12971.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc0ac\ub2f9",
+		"RIDE_PASGR_NUM": 35274.0,
+		"ALIGHT_PASGR_NUM": 39952.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ub099\uc131\ub300",
+		"RIDE_PASGR_NUM": 26812.0,
+		"ALIGHT_PASGR_NUM": 24034.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc11c\uc6b8\ub300\uc785\uad6c(\uad00\uc545\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 46502.0,
+		"ALIGHT_PASGR_NUM": 44300.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ubd09\ucc9c",
+		"RIDE_PASGR_NUM": 19064.0,
+		"ALIGHT_PASGR_NUM": 17352.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub9bc",
+		"RIDE_PASGR_NUM": 68718.0,
+		"ALIGHT_PASGR_NUM": 67886.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub300\ubc29",
+		"RIDE_PASGR_NUM": 24291.0,
+		"ALIGHT_PASGR_NUM": 22475.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uad6c\ub85c\ub514\uc9c0\ud138\ub2e8\uc9c0",
+		"RIDE_PASGR_NUM": 45381.0,
+		"ALIGHT_PASGR_NUM": 45443.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ub300\ub9bc(\uad6c\ub85c\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 25538.0,
+		"ALIGHT_PASGR_NUM": 28007.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub3c4\ub9bc",
+		"RIDE_PASGR_NUM": 58604.0,
+		"ALIGHT_PASGR_NUM": 59986.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ubb38\ub798",
+		"RIDE_PASGR_NUM": 12469.0,
+		"ALIGHT_PASGR_NUM": 12768.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc601\ub4f1\ud3ec\uad6c\uccad",
+		"RIDE_PASGR_NUM": 13232.0,
+		"ALIGHT_PASGR_NUM": 13619.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ub2f9\uc0b0",
+		"RIDE_PASGR_NUM": 15993.0,
+		"ALIGHT_PASGR_NUM": 17328.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ud569\uc815",
+		"RIDE_PASGR_NUM": 33561.0,
+		"ALIGHT_PASGR_NUM": 35848.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ud64d\ub300\uc785\uad6c",
+		"RIDE_PASGR_NUM": 111221.0,
+		"ALIGHT_PASGR_NUM": 134581.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ucd0c",
+		"RIDE_PASGR_NUM": 64595.0,
+		"ALIGHT_PASGR_NUM": 66565.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc774\ub300",
+		"RIDE_PASGR_NUM": 20087.0,
+		"ALIGHT_PASGR_NUM": 21217.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc544\ud604",
+		"RIDE_PASGR_NUM": 8521.0,
+		"ALIGHT_PASGR_NUM": 7942.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ucda9\uc815\ub85c(\uacbd\uae30\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 8298.0,
+		"ALIGHT_PASGR_NUM": 8560.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc6a9\ub2f5",
+		"RIDE_PASGR_NUM": 2216.0,
+		"ALIGHT_PASGR_NUM": 2092.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub2f5",
+		"RIDE_PASGR_NUM": 1077.0,
+		"ALIGHT_PASGR_NUM": 1064.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc124\ub3d9",
+		"RIDE_PASGR_NUM": 4197.0,
+		"ALIGHT_PASGR_NUM": 3670.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\ub3c4\ub9bc\ucc9c",
+		"RIDE_PASGR_NUM": 687.0,
+		"ALIGHT_PASGR_NUM": 685.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc591\ucc9c\uad6c\uccad",
+		"RIDE_PASGR_NUM": 5276.0,
+		"ALIGHT_PASGR_NUM": 5267.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc815\ub124\uac70\ub9ac",
+		"RIDE_PASGR_NUM": 8261.0,
+		"ALIGHT_PASGR_NUM": 8286.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "2\ud638\uc120",
+		"SUB_STA_NM": "\uc6a9\ub450(\ub3d9\ub300\ubb38\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 2005.0,
+		"ALIGHT_PASGR_NUM": 1954.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc9c0\ucd95",
+		"RIDE_PASGR_NUM": 1128.0,
+		"ALIGHT_PASGR_NUM": 1170.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uad6c\ud30c\ubc1c",
+		"RIDE_PASGR_NUM": 21135.0,
+		"ALIGHT_PASGR_NUM": 19681.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc5f0\uc2e0\ub0b4",
+		"RIDE_PASGR_NUM": 39483.0,
+		"ALIGHT_PASGR_NUM": 38642.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ubd88\uad11",
+		"RIDE_PASGR_NUM": 19050.0,
+		"ALIGHT_PASGR_NUM": 21528.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub179\ubc88",
+		"RIDE_PASGR_NUM": 11433.0,
+		"ALIGHT_PASGR_NUM": 10277.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ud64d\uc81c",
+		"RIDE_PASGR_NUM": 19088.0,
+		"ALIGHT_PASGR_NUM": 18920.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ubb34\uc545\uc7ac",
+		"RIDE_PASGR_NUM": 3737.0,
+		"ALIGHT_PASGR_NUM": 3785.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub3c5\ub9bd\ubb38",
+		"RIDE_PASGR_NUM": 7520.0,
+		"ALIGHT_PASGR_NUM": 7645.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uacbd\ubcf5\uad81(\uc815\ubd80\uc11c\uc6b8\uccad\uc0ac)",
+		"RIDE_PASGR_NUM": 35610.0,
+		"ALIGHT_PASGR_NUM": 32983.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc548\uad6d",
+		"RIDE_PASGR_NUM": 30756.0,
+		"ALIGHT_PASGR_NUM": 30064.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc885\ub85c3\uac00",
+		"RIDE_PASGR_NUM": 7055.0,
+		"ALIGHT_PASGR_NUM": 12056.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc744\uc9c0\ub85c3\uac00",
+		"RIDE_PASGR_NUM": 6017.0,
+		"ALIGHT_PASGR_NUM": 7260.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ucda9\ubb34\ub85c",
+		"RIDE_PASGR_NUM": 3.0,
+		"ALIGHT_PASGR_NUM": 0.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ub300\uc785\uad6c",
+		"RIDE_PASGR_NUM": 12513.0,
+		"ALIGHT_PASGR_NUM": 13742.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc57d\uc218",
+		"RIDE_PASGR_NUM": 11662.0,
+		"ALIGHT_PASGR_NUM": 11101.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uae08\ud638",
+		"RIDE_PASGR_NUM": 7091.0,
+		"ALIGHT_PASGR_NUM": 6371.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc625\uc218",
+		"RIDE_PASGR_NUM": 8132.0,
+		"ALIGHT_PASGR_NUM": 8313.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc555\uad6c\uc815",
+		"RIDE_PASGR_NUM": 32757.0,
+		"ALIGHT_PASGR_NUM": 35320.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc0ac",
+		"RIDE_PASGR_NUM": 30889.0,
+		"ALIGHT_PASGR_NUM": 33913.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc7a0\uc6d0",
+		"RIDE_PASGR_NUM": 4887.0,
+		"ALIGHT_PASGR_NUM": 4597.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uace0\uc18d\ud130\ubbf8\ub110",
+		"RIDE_PASGR_NUM": 76059.0,
+		"ALIGHT_PASGR_NUM": 75362.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uad50\ub300(\ubc95\uc6d0.\uac80\ucc30\uccad)",
+		"RIDE_PASGR_NUM": 7631.0,
+		"ALIGHT_PASGR_NUM": 4809.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub0a8\ubd80\ud130\ubbf8\ub110(\uc608\uc220\uc758\uc804\ub2f9)",
+		"RIDE_PASGR_NUM": 34324.0,
+		"ALIGHT_PASGR_NUM": 33338.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc591\uc7ac(\uc11c\ucd08\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 25454.0,
+		"ALIGHT_PASGR_NUM": 26882.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub9e4\ubd09",
+		"RIDE_PASGR_NUM": 6606.0,
+		"ALIGHT_PASGR_NUM": 6114.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub3c4\uace1",
+		"RIDE_PASGR_NUM": 5005.0,
+		"ALIGHT_PASGR_NUM": 4653.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub300\uce58",
+		"RIDE_PASGR_NUM": 10518.0,
+		"ALIGHT_PASGR_NUM": 9175.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ud559\uc5ec\uc6b8",
+		"RIDE_PASGR_NUM": 14962.0,
+		"ALIGHT_PASGR_NUM": 14820.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\ub300\uccad",
+		"RIDE_PASGR_NUM": 7011.0,
+		"ALIGHT_PASGR_NUM": 6206.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc77c\uc6d0",
+		"RIDE_PASGR_NUM": 5325.0,
+		"ALIGHT_PASGR_NUM": 5335.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc218\uc11c",
+		"RIDE_PASGR_NUM": 13593.0,
+		"ALIGHT_PASGR_NUM": 12685.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uac00\ub77d\uc2dc\uc7a5",
+		"RIDE_PASGR_NUM": 8017.0,
+		"ALIGHT_PASGR_NUM": 7459.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uacbd\ucc30\ubcd1\uc6d0",
+		"RIDE_PASGR_NUM": 4712.0,
+		"ALIGHT_PASGR_NUM": 4503.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "3\ud638\uc120",
+		"SUB_STA_NM": "\uc624\uae08",
+		"RIDE_PASGR_NUM": 4704.0,
+		"ALIGHT_PASGR_NUM": 4133.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ub2f9\uace0\uac1c",
+		"RIDE_PASGR_NUM": 11847.0,
+		"ALIGHT_PASGR_NUM": 10845.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\uacc4",
+		"RIDE_PASGR_NUM": 18183.0,
+		"ALIGHT_PASGR_NUM": 16225.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ub178\uc6d0",
+		"RIDE_PASGR_NUM": 23464.0,
+		"ALIGHT_PASGR_NUM": 26597.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ucc3d\ub3d9",
+		"RIDE_PASGR_NUM": 26105.0,
+		"ALIGHT_PASGR_NUM": 27829.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc30d\ubb38",
+		"RIDE_PASGR_NUM": 29836.0,
+		"ALIGHT_PASGR_NUM": 25327.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc218\uc720(\uac15\ubd81\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 41575.0,
+		"ALIGHT_PASGR_NUM": 40548.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ubbf8\uc544(\uc11c\uc6b8\uc0ac\uc774\ubc84\ub300\ud559)",
+		"RIDE_PASGR_NUM": 15971.0,
+		"ALIGHT_PASGR_NUM": 14480.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ubbf8\uc544\uc0ac\uac70\ub9ac",
+		"RIDE_PASGR_NUM": 32793.0,
+		"ALIGHT_PASGR_NUM": 31443.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uae38\uc74c",
+		"RIDE_PASGR_NUM": 22771.0,
+		"ALIGHT_PASGR_NUM": 21110.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc131\uc2e0\uc5ec\ub300\uc785\uad6c(\ub3c8\uc554)",
+		"RIDE_PASGR_NUM": 26529.0,
+		"ALIGHT_PASGR_NUM": 24943.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ud55c\uc131\ub300\uc785\uad6c(\uc0bc\uc120\uad50)",
+		"RIDE_PASGR_NUM": 14019.0,
+		"ALIGHT_PASGR_NUM": 13457.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ud61c\ud654",
+		"RIDE_PASGR_NUM": 57881.0,
+		"ALIGHT_PASGR_NUM": 62319.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ub300\ubb38",
+		"RIDE_PASGR_NUM": 26938.0,
+		"ALIGHT_PASGR_NUM": 26572.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ub300\ubb38\uc5ed\uc0ac\ubb38\ud654\uacf5\uc6d0",
+		"RIDE_PASGR_NUM": 25648.0,
+		"ALIGHT_PASGR_NUM": 22208.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ucda9\ubb34\ub85c",
+		"RIDE_PASGR_NUM": 23879.0,
+		"ALIGHT_PASGR_NUM": 24005.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uba85\ub3d9",
+		"RIDE_PASGR_NUM": 63552.0,
+		"ALIGHT_PASGR_NUM": 79979.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ud68c\ud604(\ub0a8\ub300\ubb38\uc2dc\uc7a5)",
+		"RIDE_PASGR_NUM": 33390.0,
+		"ALIGHT_PASGR_NUM": 31929.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc11c\uc6b8\uc5ed",
+		"RIDE_PASGR_NUM": 10037.0,
+		"ALIGHT_PASGR_NUM": 21266.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc219\ub300\uc785\uad6c(\uac08\uc6d4)",
+		"RIDE_PASGR_NUM": 12940.0,
+		"ALIGHT_PASGR_NUM": 11924.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc0bc\uac01\uc9c0",
+		"RIDE_PASGR_NUM": 3509.0,
+		"ALIGHT_PASGR_NUM": 4850.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc6a9\uc0b0",
+		"RIDE_PASGR_NUM": 10893.0,
+		"ALIGHT_PASGR_NUM": 11323.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc774\ucd0c(\uad6d\ub9bd\uc911\uc559\ubc15\ubb3c\uad00)",
+		"RIDE_PASGR_NUM": 8898.0,
+		"ALIGHT_PASGR_NUM": 9498.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\uc791(\ud604\ucda9\uc6d0)",
+		"RIDE_PASGR_NUM": 1997.0,
+		"ALIGHT_PASGR_NUM": 2144.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ucd1d\uc2e0\ub300\uc785\uad6c(\uc774\uc218)",
+		"RIDE_PASGR_NUM": 19532.0,
+		"ALIGHT_PASGR_NUM": 21804.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\uc0ac\ub2f9",
+		"RIDE_PASGR_NUM": 26187.0,
+		"ALIGHT_PASGR_NUM": 22233.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "4\ud638\uc120",
+		"SUB_STA_NM": "\ub0a8\ud0dc\ub839",
+		"RIDE_PASGR_NUM": 1587.0,
+		"ALIGHT_PASGR_NUM": 1004.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ubc29\ud654",
+		"RIDE_PASGR_NUM": 5901.0,
+		"ALIGHT_PASGR_NUM": 5606.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uac1c\ud654\uc0b0",
+		"RIDE_PASGR_NUM": 4722.0,
+		"ALIGHT_PASGR_NUM": 4386.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uae40\ud3ec\uacf5\ud56d",
+		"RIDE_PASGR_NUM": 9263.0,
+		"ALIGHT_PASGR_NUM": 8139.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc1a1\uc815",
+		"RIDE_PASGR_NUM": 8632.0,
+		"ALIGHT_PASGR_NUM": 8615.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\uace1",
+		"RIDE_PASGR_NUM": 3917.0,
+		"ALIGHT_PASGR_NUM": 3394.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ubc1c\uc0b0",
+		"RIDE_PASGR_NUM": 12369.0,
+		"ALIGHT_PASGR_NUM": 12833.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc6b0\uc7a5\uc0b0",
+		"RIDE_PASGR_NUM": 12886.0,
+		"ALIGHT_PASGR_NUM": 12380.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ud654\uace1",
+		"RIDE_PASGR_NUM": 25517.0,
+		"ALIGHT_PASGR_NUM": 23604.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uae4c\uce58\uc0b0",
+		"RIDE_PASGR_NUM": 26164.0,
+		"ALIGHT_PASGR_NUM": 24752.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc815(\uc740\ud589\uc815)",
+		"RIDE_PASGR_NUM": 11500.0,
+		"ALIGHT_PASGR_NUM": 9221.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ubaa9\ub3d9",
+		"RIDE_PASGR_NUM": 15135.0,
+		"ALIGHT_PASGR_NUM": 15181.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc624\ubaa9\uad50(\ubaa9\ub3d9\uc6b4\ub3d9\uc7a5\uc55e)",
+		"RIDE_PASGR_NUM": 23797.0,
+		"ALIGHT_PASGR_NUM": 25382.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc591\ud3c9",
+		"RIDE_PASGR_NUM": 3862.0,
+		"ALIGHT_PASGR_NUM": 3569.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc601\ub4f1\ud3ec\uad6c\uccad",
+		"RIDE_PASGR_NUM": 1991.0,
+		"ALIGHT_PASGR_NUM": 1916.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc601\ub4f1\ud3ec\uc2dc\uc7a5",
+		"RIDE_PASGR_NUM": 8022.0,
+		"ALIGHT_PASGR_NUM": 8623.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uae38",
+		"RIDE_PASGR_NUM": 2285.0,
+		"ALIGHT_PASGR_NUM": 2484.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc5ec\uc758\ub3c4",
+		"RIDE_PASGR_NUM": 12885.0,
+		"ALIGHT_PASGR_NUM": 15453.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc5ec\uc758\ub098\ub8e8",
+		"RIDE_PASGR_NUM": 13107.0,
+		"ALIGHT_PASGR_NUM": 12846.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\ud3ec",
+		"RIDE_PASGR_NUM": 9631.0,
+		"ALIGHT_PASGR_NUM": 9889.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uacf5\ub355",
+		"RIDE_PASGR_NUM": 9109.0,
+		"ALIGHT_PASGR_NUM": 9205.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc560\uc624\uac1c",
+		"RIDE_PASGR_NUM": 5083.0,
+		"ALIGHT_PASGR_NUM": 4989.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ucda9\uc815\ub85c(\uacbd\uae30\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 3192.0,
+		"ALIGHT_PASGR_NUM": 2450.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc11c\ub300\ubb38",
+		"RIDE_PASGR_NUM": 11443.0,
+		"ALIGHT_PASGR_NUM": 9986.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uad11\ud654\ubb38(\uc138\uc885\ubb38\ud654\ud68c\uad00)",
+		"RIDE_PASGR_NUM": 64008.0,
+		"ALIGHT_PASGR_NUM": 64438.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc885\ub85c3\uac00",
+		"RIDE_PASGR_NUM": 15591.0,
+		"ALIGHT_PASGR_NUM": 15685.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc744\uc9c0\ub85c4\uac00",
+		"RIDE_PASGR_NUM": 3939.0,
+		"ALIGHT_PASGR_NUM": 4682.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ub300\ubb38\uc5ed\uc0ac\ubb38\ud654\uacf5\uc6d0",
+		"RIDE_PASGR_NUM": 1791.0,
+		"ALIGHT_PASGR_NUM": 2280.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uccad\uad6c",
+		"RIDE_PASGR_NUM": 2719.0,
+		"ALIGHT_PASGR_NUM": 2841.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uae08\ud638",
+		"RIDE_PASGR_NUM": 4915.0,
+		"ALIGHT_PASGR_NUM": 4831.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ud589\ub2f9",
+		"RIDE_PASGR_NUM": 6646.0,
+		"ALIGHT_PASGR_NUM": 5670.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc655\uc2ed\ub9ac(\uc131\ub3d9\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 4756.0,
+		"ALIGHT_PASGR_NUM": 6347.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\uc7a5",
+		"RIDE_PASGR_NUM": 5163.0,
+		"ALIGHT_PASGR_NUM": 5044.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub2f5\uc2ed\ub9ac",
+		"RIDE_PASGR_NUM": 13289.0,
+		"ALIGHT_PASGR_NUM": 12074.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc7a5\ud55c\ud3c9",
+		"RIDE_PASGR_NUM": 14694.0,
+		"ALIGHT_PASGR_NUM": 14513.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uad70\uc790(\ub2a5\ub3d9)",
+		"RIDE_PASGR_NUM": 9874.0,
+		"ALIGHT_PASGR_NUM": 13106.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc544\ucc28\uc0b0(\uc5b4\ub9b0\uc774\ub300\uacf5\uc6d0\ud6c4\ubb38)",
+		"RIDE_PASGR_NUM": 13289.0,
+		"ALIGHT_PASGR_NUM": 12356.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uad11\ub098\ub8e8(\uc7a5\uc2e0\ub300)",
+		"RIDE_PASGR_NUM": 12012.0,
+		"ALIGHT_PASGR_NUM": 11035.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ucc9c\ud638(\ud48d\ub0a9\ud1a0\uc131)",
+		"RIDE_PASGR_NUM": 22225.0,
+		"ALIGHT_PASGR_NUM": 22397.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uac15\ub3d9",
+		"RIDE_PASGR_NUM": 16246.0,
+		"ALIGHT_PASGR_NUM": 13992.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uae38\ub3d9",
+		"RIDE_PASGR_NUM": 6435.0,
+		"ALIGHT_PASGR_NUM": 6616.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uad7d\uc740\ub2e4\ub9ac(\uac15\ub3d9\uad6c\ubbfc\ud68c\uad00\uc55e)",
+		"RIDE_PASGR_NUM": 9049.0,
+		"ALIGHT_PASGR_NUM": 8528.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uba85\uc77c",
+		"RIDE_PASGR_NUM": 6853.0,
+		"ALIGHT_PASGR_NUM": 6385.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uace0\ub355",
+		"RIDE_PASGR_NUM": 6544.0,
+		"ALIGHT_PASGR_NUM": 6379.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\uc77c\ub3d9",
+		"RIDE_PASGR_NUM": 8496.0,
+		"ALIGHT_PASGR_NUM": 7207.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub454\ucd0c\ub3d9",
+		"RIDE_PASGR_NUM": 10238.0,
+		"ALIGHT_PASGR_NUM": 10077.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc62c\ub9bc\ud53d\uacf5\uc6d0(\ud55c\uad6d\uccb4\ub300)",
+		"RIDE_PASGR_NUM": 6260.0,
+		"ALIGHT_PASGR_NUM": 5835.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ubc29\uc774",
+		"RIDE_PASGR_NUM": 5694.0,
+		"ALIGHT_PASGR_NUM": 5516.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uc624\uae08",
+		"RIDE_PASGR_NUM": 2603.0,
+		"ALIGHT_PASGR_NUM": 2540.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uac1c\ub871",
+		"RIDE_PASGR_NUM": 5136.0,
+		"ALIGHT_PASGR_NUM": 5102.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\uac70\uc5ec",
+		"RIDE_PASGR_NUM": 5290.0,
+		"ALIGHT_PASGR_NUM": 4968.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "5\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\ucc9c",
+		"RIDE_PASGR_NUM": 4514.0,
+		"ALIGHT_PASGR_NUM": 4525.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc751\uc554",
+		"RIDE_PASGR_NUM": 15396.0,
+		"ALIGHT_PASGR_NUM": 14961.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc5ed\ucd0c",
+		"RIDE_PASGR_NUM": 3248.0,
+		"ALIGHT_PASGR_NUM": 3714.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ubd88\uad11",
+		"RIDE_PASGR_NUM": 6015.0,
+		"ALIGHT_PASGR_NUM": 5148.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub3c5\ubc14\uc704",
+		"RIDE_PASGR_NUM": 2435.0,
+		"ALIGHT_PASGR_NUM": 2609.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc5f0\uc2e0\ub0b4",
+		"RIDE_PASGR_NUM": 1.0,
+		"ALIGHT_PASGR_NUM": 0.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uad6c\uc0b0",
+		"RIDE_PASGR_NUM": 6450.0,
+		"ALIGHT_PASGR_NUM": 4896.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc0c8\uc808(\uc2e0\uc0ac)",
+		"RIDE_PASGR_NUM": 10836.0,
+		"ALIGHT_PASGR_NUM": 10173.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc99d\uc0b0(\uba85\uc9c0\ub300\uc55e)",
+		"RIDE_PASGR_NUM": 9250.0,
+		"ALIGHT_PASGR_NUM": 8692.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub514\uc9c0\ud138\ubbf8\ub514\uc5b4\uc2dc\ud2f0",
+		"RIDE_PASGR_NUM": 10172.0,
+		"ALIGHT_PASGR_NUM": 10599.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc6d4\ub4dc\ucef5\uacbd\uae30\uc7a5(\uc131\uc0b0)",
+		"RIDE_PASGR_NUM": 6627.0,
+		"ALIGHT_PASGR_NUM": 7319.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\ud3ec\uad6c\uccad",
+		"RIDE_PASGR_NUM": 10236.0,
+		"ALIGHT_PASGR_NUM": 8937.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub9dd\uc6d0",
+		"RIDE_PASGR_NUM": 11501.0,
+		"ALIGHT_PASGR_NUM": 12642.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ud569\uc815",
+		"RIDE_PASGR_NUM": 13336.0,
+		"ALIGHT_PASGR_NUM": 12572.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\uc218",
+		"RIDE_PASGR_NUM": 13321.0,
+		"ALIGHT_PASGR_NUM": 16784.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uad11\ud765\ucc3d(\uc11c\uac15)",
+		"RIDE_PASGR_NUM": 6939.0,
+		"ALIGHT_PASGR_NUM": 6433.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub300\ud765(\uc11c\uac15\ub300\uc55e)",
+		"RIDE_PASGR_NUM": 5810.0,
+		"ALIGHT_PASGR_NUM": 5971.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uacf5\ub355",
+		"RIDE_PASGR_NUM": 12454.0,
+		"ALIGHT_PASGR_NUM": 11953.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ud6a8\ucc3d\uacf5\uc6d0\uc55e",
+		"RIDE_PASGR_NUM": 5575.0,
+		"ALIGHT_PASGR_NUM": 4998.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc0bc\uac01\uc9c0",
+		"RIDE_PASGR_NUM": 7137.0,
+		"ALIGHT_PASGR_NUM": 4874.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub179\uc0ac\ud3c9(\uc6a9\uc0b0\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 10708.0,
+		"ALIGHT_PASGR_NUM": 12777.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc774\ud0dc\uc6d0",
+		"RIDE_PASGR_NUM": 32226.0,
+		"ALIGHT_PASGR_NUM": 43284.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ud55c\uac15\uc9c4",
+		"RIDE_PASGR_NUM": 8256.0,
+		"ALIGHT_PASGR_NUM": 10038.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ubc84\ud2f0\uace0\uac1c",
+		"RIDE_PASGR_NUM": 1930.0,
+		"ALIGHT_PASGR_NUM": 1898.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc57d\uc218",
+		"RIDE_PASGR_NUM": 2833.0,
+		"ALIGHT_PASGR_NUM": 2795.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uccad\uad6c",
+		"RIDE_PASGR_NUM": 3335.0,
+		"ALIGHT_PASGR_NUM": 2949.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub2f9",
+		"RIDE_PASGR_NUM": 7747.0,
+		"ALIGHT_PASGR_NUM": 6222.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\ubb18\uc55e",
+		"RIDE_PASGR_NUM": 9901.0,
+		"ALIGHT_PASGR_NUM": 9027.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ucc3d\uc2e0",
+		"RIDE_PASGR_NUM": 2445.0,
+		"ALIGHT_PASGR_NUM": 1942.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ubcf4\ubb38",
+		"RIDE_PASGR_NUM": 7235.0,
+		"ALIGHT_PASGR_NUM": 6531.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc548\uc554(\uace0\ub300\ubcd1\uc6d0\uc55e)",
+		"RIDE_PASGR_NUM": 11443.0,
+		"ALIGHT_PASGR_NUM": 11154.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uace0\ub824\ub300(\uc885\uc554)",
+		"RIDE_PASGR_NUM": 8187.0,
+		"ALIGHT_PASGR_NUM": 7118.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc6d4\uace1(\ub3d9\ub355\uc5ec\ub300)",
+		"RIDE_PASGR_NUM": 10026.0,
+		"ALIGHT_PASGR_NUM": 9637.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\uc6d4\uace1(\ud55c\uad6d\uacfc\ud559\uae30\uc220\uc5f0\uad6c\uc6d0)",
+		"RIDE_PASGR_NUM": 4610.0,
+		"ALIGHT_PASGR_NUM": 3955.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ub3cc\uacf6\uc774",
+		"RIDE_PASGR_NUM": 7781.0,
+		"ALIGHT_PASGR_NUM": 6934.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\uc11d\uacc4",
+		"RIDE_PASGR_NUM": 10807.0,
+		"ALIGHT_PASGR_NUM": 10330.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ud0dc\ub989\uc785\uad6c",
+		"RIDE_PASGR_NUM": 4499.0,
+		"ALIGHT_PASGR_NUM": 4783.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ud654\ub791\ub300(\uc11c\uc6b8\uc5ec\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 9306.0,
+		"ALIGHT_PASGR_NUM": 7317.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "6\ud638\uc120",
+		"SUB_STA_NM": "\ubd09\ud654\uc0b0(\uc11c\uc6b8\uc758\ub8cc\uc6d0)",
+		"RIDE_PASGR_NUM": 7129.0,
+		"ALIGHT_PASGR_NUM": 6699.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc7a5\uc554",
+		"RIDE_PASGR_NUM": 1573.0,
+		"ALIGHT_PASGR_NUM": 920.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub3c4\ubd09\uc0b0",
+		"RIDE_PASGR_NUM": 6986.0,
+		"ALIGHT_PASGR_NUM": 8747.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc218\ub77d\uc0b0",
+		"RIDE_PASGR_NUM": 12191.0,
+		"ALIGHT_PASGR_NUM": 11294.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\ub4e4",
+		"RIDE_PASGR_NUM": 9770.0,
+		"ALIGHT_PASGR_NUM": 8749.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub178\uc6d0",
+		"RIDE_PASGR_NUM": 20214.0,
+		"ALIGHT_PASGR_NUM": 21980.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc911\uacc4",
+		"RIDE_PASGR_NUM": 11965.0,
+		"ALIGHT_PASGR_NUM": 10231.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ud558\uacc4",
+		"RIDE_PASGR_NUM": 16576.0,
+		"ALIGHT_PASGR_NUM": 15459.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uacf5\ub989(\uc11c\uc6b8\uacfc\ud559\uae30\uc220\ub300)",
+		"RIDE_PASGR_NUM": 10174.0,
+		"ALIGHT_PASGR_NUM": 9547.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ud0dc\ub989\uc785\uad6c",
+		"RIDE_PASGR_NUM": 7093.0,
+		"ALIGHT_PASGR_NUM": 6220.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uba39\uace8",
+		"RIDE_PASGR_NUM": 8947.0,
+		"ALIGHT_PASGR_NUM": 8422.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc911\ud654",
+		"RIDE_PASGR_NUM": 9479.0,
+		"ALIGHT_PASGR_NUM": 8618.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\ubd09(\uc2dc\uc678\ubc84\uc2a4\ud130\ubbf8\ub110)",
+		"RIDE_PASGR_NUM": 16382.0,
+		"ALIGHT_PASGR_NUM": 15904.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uba74\ubaa9",
+		"RIDE_PASGR_NUM": 12897.0,
+		"ALIGHT_PASGR_NUM": 11943.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc0ac\uac00\uc815",
+		"RIDE_PASGR_NUM": 13799.0,
+		"ALIGHT_PASGR_NUM": 13281.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc6a9\ub9c8\uc0b0",
+		"RIDE_PASGR_NUM": 5056.0,
+		"ALIGHT_PASGR_NUM": 4424.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc911\uace1",
+		"RIDE_PASGR_NUM": 8282.0,
+		"ALIGHT_PASGR_NUM": 7412.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uad70\uc790(\ub2a5\ub3d9)",
+		"RIDE_PASGR_NUM": 12364.0,
+		"ALIGHT_PASGR_NUM": 7231.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc5b4\ub9b0\uc774\ub300\uacf5\uc6d0(\uc138\uc885\ub300)",
+		"RIDE_PASGR_NUM": 12047.0,
+		"ALIGHT_PASGR_NUM": 11261.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uac74\ub300\uc785\uad6c",
+		"RIDE_PASGR_NUM": 16997.0,
+		"ALIGHT_PASGR_NUM": 19545.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub69d\uc12c\uc720\uc6d0\uc9c0",
+		"RIDE_PASGR_NUM": 6172.0,
+		"ALIGHT_PASGR_NUM": 5916.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uccad\ub2f4",
+		"RIDE_PASGR_NUM": 14180.0,
+		"ALIGHT_PASGR_NUM": 15934.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uac15\ub0a8\uad6c\uccad",
+		"RIDE_PASGR_NUM": 10489.0,
+		"ALIGHT_PASGR_NUM": 11104.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ud559\ub3d9",
+		"RIDE_PASGR_NUM": 12470.0,
+		"ALIGHT_PASGR_NUM": 13296.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub17c\ud604",
+		"RIDE_PASGR_NUM": 12353.0,
+		"ALIGHT_PASGR_NUM": 13967.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ubc18\ud3ec",
+		"RIDE_PASGR_NUM": 5571.0,
+		"ALIGHT_PASGR_NUM": 5198.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uace0\uc18d\ud130\ubbf8\ub110",
+		"RIDE_PASGR_NUM": 23614.0,
+		"ALIGHT_PASGR_NUM": 18613.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub0b4\ubc29",
+		"RIDE_PASGR_NUM": 9018.0,
+		"ALIGHT_PASGR_NUM": 9037.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc774\uc218",
+		"RIDE_PASGR_NUM": 14151.0,
+		"ALIGHT_PASGR_NUM": 14016.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub0a8\uc131",
+		"RIDE_PASGR_NUM": 9179.0,
+		"ALIGHT_PASGR_NUM": 8402.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc22d\uc2e4\ub300\uc785\uad6c(\uc0b4\ud53c\uc7ac)",
+		"RIDE_PASGR_NUM": 10480.0,
+		"ALIGHT_PASGR_NUM": 9772.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\ub3c4",
+		"RIDE_PASGR_NUM": 9024.0,
+		"ALIGHT_PASGR_NUM": 7860.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc7a5\uc2b9\ubc30\uae30",
+		"RIDE_PASGR_NUM": 9036.0,
+		"ALIGHT_PASGR_NUM": 8476.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub300\ubc29\uc0bc\uac70\ub9ac",
+		"RIDE_PASGR_NUM": 12623.0,
+		"ALIGHT_PASGR_NUM": 11519.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ubcf4\ub77c\ub9e4",
+		"RIDE_PASGR_NUM": 6277.0,
+		"ALIGHT_PASGR_NUM": 6141.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ud48d",
+		"RIDE_PASGR_NUM": 8790.0,
+		"ALIGHT_PASGR_NUM": 8667.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub300\ub9bc(\uad6c\ub85c\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 10068.0,
+		"ALIGHT_PASGR_NUM": 11587.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ub0a8\uad6c\ub85c",
+		"RIDE_PASGR_NUM": 11121.0,
+		"ALIGHT_PASGR_NUM": 11302.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uac00\uc0b0\ub514\uc9c0\ud138\ub2e8\uc9c0",
+		"RIDE_PASGR_NUM": 19861.0,
+		"ALIGHT_PASGR_NUM": 18042.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ucca0\uc0b0",
+		"RIDE_PASGR_NUM": 21092.0,
+		"ALIGHT_PASGR_NUM": 20698.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uad11\uba85\uc0ac\uac70\ub9ac",
+		"RIDE_PASGR_NUM": 24011.0,
+		"ALIGHT_PASGR_NUM": 23307.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ucc9c\uc655",
+		"RIDE_PASGR_NUM": 6703.0,
+		"ALIGHT_PASGR_NUM": 6011.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc628\uc218(\uc131\uacf5\ud68c\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 6951.0,
+		"ALIGHT_PASGR_NUM": 7169.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uae4c\uce58\uc6b8",
+		"RIDE_PASGR_NUM": 5166.0,
+		"ALIGHT_PASGR_NUM": 4784.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ubd80\ucc9c\uc885\ud569\uc6b4\ub3d9\uc7a5",
+		"RIDE_PASGR_NUM": 4129.0,
+		"ALIGHT_PASGR_NUM": 3750.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ucd98\uc758",
+		"RIDE_PASGR_NUM": 6035.0,
+		"ALIGHT_PASGR_NUM": 5668.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\uc911\ub3d9",
+		"RIDE_PASGR_NUM": 11937.0,
+		"ALIGHT_PASGR_NUM": 12022.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ubd80\ucc9c\uc2dc\uccad",
+		"RIDE_PASGR_NUM": 12749.0,
+		"ALIGHT_PASGR_NUM": 12299.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc0c1\ub3d9",
+		"RIDE_PASGR_NUM": 13792.0,
+		"ALIGHT_PASGR_NUM": 13811.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uc0bc\uc0b0\uccb4\uc721\uad00",
+		"RIDE_PASGR_NUM": 4646.0,
+		"ALIGHT_PASGR_NUM": 4307.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\uad74\ud3ec\ucc9c",
+		"RIDE_PASGR_NUM": 7885.0,
+		"ALIGHT_PASGR_NUM": 8140.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "7\ud638\uc120",
+		"SUB_STA_NM": "\ubd80\ud3c9\uad6c\uccad",
+		"RIDE_PASGR_NUM": 9026.0,
+		"ALIGHT_PASGR_NUM": 7272.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc554\uc0ac",
+		"RIDE_PASGR_NUM": 13955.0,
+		"ALIGHT_PASGR_NUM": 12530.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ucc9c\ud638(\ud48d\ub0a9\ud1a0\uc131)",
+		"RIDE_PASGR_NUM": 17860.0,
+		"ALIGHT_PASGR_NUM": 21205.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uac15\ub3d9\uad6c\uccad",
+		"RIDE_PASGR_NUM": 7777.0,
+		"ALIGHT_PASGR_NUM": 7782.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ubabd\ucd0c\ud1a0\uc131(\ud3c9\ud654\uc758\ubb38)",
+		"RIDE_PASGR_NUM": 5550.0,
+		"ALIGHT_PASGR_NUM": 5643.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc7a0\uc2e4(\uc1a1\ud30c\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 17670.0,
+		"ALIGHT_PASGR_NUM": 20229.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc11d\ucd0c",
+		"RIDE_PASGR_NUM": 7175.0,
+		"ALIGHT_PASGR_NUM": 7372.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc1a1\ud30c",
+		"RIDE_PASGR_NUM": 4549.0,
+		"ALIGHT_PASGR_NUM": 4231.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uac00\ub77d\uc2dc\uc7a5",
+		"RIDE_PASGR_NUM": 6153.0,
+		"ALIGHT_PASGR_NUM": 6739.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ubb38\uc815",
+		"RIDE_PASGR_NUM": 5882.0,
+		"ALIGHT_PASGR_NUM": 5585.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc7a5\uc9c0",
+		"RIDE_PASGR_NUM": 13963.0,
+		"ALIGHT_PASGR_NUM": 13467.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ubcf5\uc815",
+		"RIDE_PASGR_NUM": 7207.0,
+		"ALIGHT_PASGR_NUM": 5749.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc0b0\uc131",
+		"RIDE_PASGR_NUM": 5882.0,
+		"ALIGHT_PASGR_NUM": 5375.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ub0a8\ud55c\uc0b0\uc131\uc785\uad6c(\uc131\ub0a8\ubc95\uc6d0.\uac80\ucc30\uccad)",
+		"RIDE_PASGR_NUM": 10990.0,
+		"ALIGHT_PASGR_NUM": 9085.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ub2e8\ub300\uc624\uac70\ub9ac",
+		"RIDE_PASGR_NUM": 10475.0,
+		"ALIGHT_PASGR_NUM": 9572.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ud765",
+		"RIDE_PASGR_NUM": 5228.0,
+		"ALIGHT_PASGR_NUM": 5507.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\uc218\uc9c4",
+		"RIDE_PASGR_NUM": 4849.0,
+		"ALIGHT_PASGR_NUM": 4334.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "8\ud638\uc120",
+		"SUB_STA_NM": "\ubaa8\ub780",
+		"RIDE_PASGR_NUM": 5829.0,
+		"ALIGHT_PASGR_NUM": 4625.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uac1c\ud654",
+		"RIDE_PASGR_NUM": 4497.0,
+		"ALIGHT_PASGR_NUM": 3237.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uae40\ud3ec\uacf5\ud56d",
+		"RIDE_PASGR_NUM": 10282.0,
+		"ALIGHT_PASGR_NUM": 14178.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uacf5\ud56d\uc2dc\uc7a5",
+		"RIDE_PASGR_NUM": 2641.0,
+		"ALIGHT_PASGR_NUM": 2817.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ubc29\ud654",
+		"RIDE_PASGR_NUM": 6481.0,
+		"ALIGHT_PASGR_NUM": 6010.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ub9c8\uace1\ub098\ub8e8",
+		"RIDE_PASGR_NUM": 2637.0,
+		"ALIGHT_PASGR_NUM": 2318.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc591\ucc9c\ud5a5\uad50",
+		"RIDE_PASGR_NUM": 5566.0,
+		"ALIGHT_PASGR_NUM": 5112.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uac00\uc591",
+		"RIDE_PASGR_NUM": 16929.0,
+		"ALIGHT_PASGR_NUM": 15766.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc99d\ubbf8",
+		"RIDE_PASGR_NUM": 5239.0,
+		"ALIGHT_PASGR_NUM": 5292.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ub4f1\ucd0c",
+		"RIDE_PASGR_NUM": 7842.0,
+		"ALIGHT_PASGR_NUM": 7549.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc5fc\ucc3d",
+		"RIDE_PASGR_NUM": 12479.0,
+		"ALIGHT_PASGR_NUM": 11514.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ubaa9\ub3d9",
+		"RIDE_PASGR_NUM": 2876.0,
+		"ALIGHT_PASGR_NUM": 2396.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc120\uc720\ub3c4",
+		"RIDE_PASGR_NUM": 3642.0,
+		"ALIGHT_PASGR_NUM": 3409.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ub2f9\uc0b0",
+		"RIDE_PASGR_NUM": 13804.0,
+		"ALIGHT_PASGR_NUM": 12316.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uad6d\ud68c\uc758\uc0ac\ub2f9",
+		"RIDE_PASGR_NUM": 5059.0,
+		"ALIGHT_PASGR_NUM": 5078.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc5ec\uc758\ub3c4",
+		"RIDE_PASGR_NUM": 10258.0,
+		"ALIGHT_PASGR_NUM": 9941.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc0db\uac15",
+		"RIDE_PASGR_NUM": 3032.0,
+		"ALIGHT_PASGR_NUM": 3065.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ub178\ub7c9\uc9c4",
+		"RIDE_PASGR_NUM": 27230.0,
+		"ALIGHT_PASGR_NUM": 28800.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ub178\ub4e4",
+		"RIDE_PASGR_NUM": 4039.0,
+		"ALIGHT_PASGR_NUM": 3340.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ud751\uc11d(\uc911\uc559\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 8111.0,
+		"ALIGHT_PASGR_NUM": 8007.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\ub3d9\uc791(\ud604\ucda9\uc6d0)",
+		"RIDE_PASGR_NUM": 1426.0,
+		"ALIGHT_PASGR_NUM": 1218.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uad6c\ubc18\ud3ec",
+		"RIDE_PASGR_NUM": 2498.0,
+		"ALIGHT_PASGR_NUM": 2516.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ubc18\ud3ec",
+		"RIDE_PASGR_NUM": 2953.0,
+		"ALIGHT_PASGR_NUM": 2961.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uace0\uc18d\ud130\ubbf8\ub110",
+		"RIDE_PASGR_NUM": 16063.0,
+		"ALIGHT_PASGR_NUM": 24379.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc0ac\ud3c9",
+		"RIDE_PASGR_NUM": 2076.0,
+		"ALIGHT_PASGR_NUM": 1897.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc120",
+		"SUB_STA_NM": "\uc2e0\ub17c\ud604",
+		"RIDE_PASGR_NUM": 25624.0,
+		"ALIGHT_PASGR_NUM": 26021.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc1202\ub2e8\uacc4",
+		"SUB_STA_NM": "\uc5b8\uc8fc",
+		"RIDE_PASGR_NUM": 5584.0,
+		"ALIGHT_PASGR_NUM": 5326.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc1202\ub2e8\uacc4",
+		"SUB_STA_NM": "\uc120\uc815\ub989",
+		"RIDE_PASGR_NUM": 4131.0,
+		"ALIGHT_PASGR_NUM": 4086.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc1202\ub2e8\uacc4",
+		"SUB_STA_NM": "\uc0bc\uc131\uc911\uc559",
+		"RIDE_PASGR_NUM": 2674.0,
+		"ALIGHT_PASGR_NUM": 2644.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc1202\ub2e8\uacc4",
+		"SUB_STA_NM": "\ubd09\uc740\uc0ac",
+		"RIDE_PASGR_NUM": 12900.0,
+		"ALIGHT_PASGR_NUM": 12604.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "9\ud638\uc1202\ub2e8\uacc4",
+		"SUB_STA_NM": "\uc885\ud569\uc6b4\ub3d9\uc7a5",
+		"RIDE_PASGR_NUM": 4469.0,
+		"ALIGHT_PASGR_NUM": 3363.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\ud310\uad50",
+		"RIDE_PASGR_NUM": 2864.0,
+		"ALIGHT_PASGR_NUM": 2697.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uc774\ub9e4",
+		"RIDE_PASGR_NUM": 1240.0,
+		"ALIGHT_PASGR_NUM": 696.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uc0bc\ub3d9",
+		"RIDE_PASGR_NUM": 972.0,
+		"ALIGHT_PASGR_NUM": 784.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uacbd\uae30\uad11\uc8fc",
+		"RIDE_PASGR_NUM": 4311.0,
+		"ALIGHT_PASGR_NUM": 4056.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\ucd08\uc6d4",
+		"RIDE_PASGR_NUM": 1862.0,
+		"ALIGHT_PASGR_NUM": 1567.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uace4\uc9c0\uc554",
+		"RIDE_PASGR_NUM": 1957.0,
+		"ALIGHT_PASGR_NUM": 1620.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uc2e0\ub454\ub3c4\uc608\ucd0c",
+		"RIDE_PASGR_NUM": 899.0,
+		"ALIGHT_PASGR_NUM": 761.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uc774\ucc9c",
+		"RIDE_PASGR_NUM": 2937.0,
+		"ALIGHT_PASGR_NUM": 2892.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\ubd80\ubc1c",
+		"RIDE_PASGR_NUM": 1666.0,
+		"ALIGHT_PASGR_NUM": 1251.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uc138\uc885\ub300\uc655\ub989",
+		"RIDE_PASGR_NUM": 323.0,
+		"ALIGHT_PASGR_NUM": 305.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uac15\uc120",
+		"SUB_STA_NM": "\uc5ec\uc8fc",
+		"RIDE_PASGR_NUM": 2246.0,
+		"ALIGHT_PASGR_NUM": 2337.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ub0a8\uc601",
+		"RIDE_PASGR_NUM": 8215.0,
+		"ALIGHT_PASGR_NUM": 8494.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc6a9\uc0b0",
+		"RIDE_PASGR_NUM": 45969.0,
+		"ALIGHT_PASGR_NUM": 49272.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ub178\ub7c9\uc9c4",
+		"RIDE_PASGR_NUM": 19155.0,
+		"ALIGHT_PASGR_NUM": 17383.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ub300\ubc29",
+		"RIDE_PASGR_NUM": 12819.0,
+		"ALIGHT_PASGR_NUM": 12182.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc601\ub4f1\ud3ec",
+		"RIDE_PASGR_NUM": 64764.0,
+		"ALIGHT_PASGR_NUM": 68235.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc2e0\ub3c4\ub9bc",
+		"RIDE_PASGR_NUM": 3003.0,
+		"ALIGHT_PASGR_NUM": 3330.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc2e0\uae38",
+		"RIDE_PASGR_NUM": 8647.0,
+		"ALIGHT_PASGR_NUM": 6780.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uad6c\ub85c",
+		"RIDE_PASGR_NUM": 19023.0,
+		"ALIGHT_PASGR_NUM": 20296.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uac00\uc0b0\ub514\uc9c0\ud138\ub2e8\uc9c0",
+		"RIDE_PASGR_NUM": 7566.0,
+		"ALIGHT_PASGR_NUM": 10838.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uae08\ucc9c\uad6c\uccad",
+		"RIDE_PASGR_NUM": 10049.0,
+		"ALIGHT_PASGR_NUM": 9756.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc11d\uc218",
+		"RIDE_PASGR_NUM": 9373.0,
+		"ALIGHT_PASGR_NUM": 8147.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uad00\uc545",
+		"RIDE_PASGR_NUM": 7020.0,
+		"ALIGHT_PASGR_NUM": 6672.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc548\uc591",
+		"RIDE_PASGR_NUM": 25398.0,
+		"ALIGHT_PASGR_NUM": 25489.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uba85\ud559",
+		"RIDE_PASGR_NUM": 6735.0,
+		"ALIGHT_PASGR_NUM": 6433.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uae08\uc815",
+		"RIDE_PASGR_NUM": 23301.0,
+		"ALIGHT_PASGR_NUM": 22792.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uad70\ud3ec",
+		"RIDE_PASGR_NUM": 5681.0,
+		"ALIGHT_PASGR_NUM": 5044.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc758\uc655",
+		"RIDE_PASGR_NUM": 6466.0,
+		"ALIGHT_PASGR_NUM": 5996.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc131\uade0\uad00\ub300",
+		"RIDE_PASGR_NUM": 13829.0,
+		"ALIGHT_PASGR_NUM": 12863.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ud654\uc11c",
+		"RIDE_PASGR_NUM": 6816.0,
+		"ALIGHT_PASGR_NUM": 6827.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc218\uc6d0",
+		"RIDE_PASGR_NUM": 50271.0,
+		"ALIGHT_PASGR_NUM": 55483.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ub3c5\uc0b0",
+		"RIDE_PASGR_NUM": 10994.0,
+		"ALIGHT_PASGR_NUM": 11162.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc138\ub958",
+		"RIDE_PASGR_NUM": 4272.0,
+		"ALIGHT_PASGR_NUM": 3926.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ubcd1\uc810",
+		"RIDE_PASGR_NUM": 13560.0,
+		"ALIGHT_PASGR_NUM": 13402.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc138\ub9c8",
+		"RIDE_PASGR_NUM": 2572.0,
+		"ALIGHT_PASGR_NUM": 2263.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc624\uc0b0\ub300",
+		"RIDE_PASGR_NUM": 2422.0,
+		"ALIGHT_PASGR_NUM": 1994.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc624\uc0b0",
+		"RIDE_PASGR_NUM": 11244.0,
+		"ALIGHT_PASGR_NUM": 9652.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc9c4\uc704",
+		"RIDE_PASGR_NUM": 1374.0,
+		"ALIGHT_PASGR_NUM": 1090.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc1a1\ud0c4",
+		"RIDE_PASGR_NUM": 5544.0,
+		"ALIGHT_PASGR_NUM": 5152.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc11c\uc815\ub9ac",
+		"RIDE_PASGR_NUM": 5107.0,
+		"ALIGHT_PASGR_NUM": 4295.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc9c0\uc81c",
+		"RIDE_PASGR_NUM": 1510.0,
+		"ALIGHT_PASGR_NUM": 1342.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ud3c9\ud0dd",
+		"RIDE_PASGR_NUM": 16312.0,
+		"ALIGHT_PASGR_NUM": 14244.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc131\ud658",
+		"RIDE_PASGR_NUM": 4033.0,
+		"ALIGHT_PASGR_NUM": 3339.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc9c1\uc0b0",
+		"RIDE_PASGR_NUM": 1062.0,
+		"ALIGHT_PASGR_NUM": 864.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ub450\uc815",
+		"RIDE_PASGR_NUM": 5866.0,
+		"ALIGHT_PASGR_NUM": 5854.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ucc9c\uc548",
+		"RIDE_PASGR_NUM": 8771.0,
+		"ALIGHT_PASGR_NUM": 8278.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\ub2f9\uc815",
+		"RIDE_PASGR_NUM": 5447.0,
+		"ALIGHT_PASGR_NUM": 5082.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uc11c\ub3d9\ud0c4",
+		"RIDE_PASGR_NUM": 1481.0,
+		"ALIGHT_PASGR_NUM": 1568.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ubd80\uc120",
+		"SUB_STA_NM": "\uad11\uba85",
+		"RIDE_PASGR_NUM": 1239.0,
+		"ALIGHT_PASGR_NUM": 1078.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc774\ucd0c(\uad6d\ub9bd\uc911\uc559\ubc15\ubb3c\uad00)",
+		"RIDE_PASGR_NUM": 4158.0,
+		"ALIGHT_PASGR_NUM": 3045.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc11c\ube59\uace0",
+		"RIDE_PASGR_NUM": 1798.0,
+		"ALIGHT_PASGR_NUM": 1923.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ud55c\ub0a8",
+		"RIDE_PASGR_NUM": 3206.0,
+		"ALIGHT_PASGR_NUM": 3185.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc625\uc218",
+		"RIDE_PASGR_NUM": 47.0,
+		"ALIGHT_PASGR_NUM": 22.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc751\ubd09",
+		"RIDE_PASGR_NUM": 1472.0,
+		"ALIGHT_PASGR_NUM": 1171.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc655\uc2ed\ub9ac(\uc131\ub3d9\uad6c\uccad)",
+		"RIDE_PASGR_NUM": 17845.0,
+		"ALIGHT_PASGR_NUM": 19673.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uccad\ub7c9\ub9ac(\uc11c\uc6b8\uc2dc\ub9bd\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 17304.0,
+		"ALIGHT_PASGR_NUM": 19391.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc678\ub300\uc55e",
+		"RIDE_PASGR_NUM": 13582.0,
+		"ALIGHT_PASGR_NUM": 12339.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc2e0\uc774\ubb38",
+		"RIDE_PASGR_NUM": 8217.0,
+		"ALIGHT_PASGR_NUM": 7201.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc11d\uacc4",
+		"RIDE_PASGR_NUM": 9935.0,
+		"ALIGHT_PASGR_NUM": 10854.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uad11\uc6b4\ub300",
+		"RIDE_PASGR_NUM": 7349.0,
+		"ALIGHT_PASGR_NUM": 7157.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc6d4\uacc4",
+		"RIDE_PASGR_NUM": 4287.0,
+		"ALIGHT_PASGR_NUM": 3648.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub179\ucc9c",
+		"RIDE_PASGR_NUM": 4171.0,
+		"ALIGHT_PASGR_NUM": 3245.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ucc3d\ub3d9",
+		"RIDE_PASGR_NUM": 1.0,
+		"ALIGHT_PASGR_NUM": 0.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ubc29\ud559",
+		"RIDE_PASGR_NUM": 8995.0,
+		"ALIGHT_PASGR_NUM": 8924.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub3c4\ubd09",
+		"RIDE_PASGR_NUM": 5382.0,
+		"ALIGHT_PASGR_NUM": 5043.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub3c4\ubd09\uc0b0",
+		"RIDE_PASGR_NUM": 7588.0,
+		"ALIGHT_PASGR_NUM": 4980.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub9dd\uc6d4\uc0ac",
+		"RIDE_PASGR_NUM": 6339.0,
+		"ALIGHT_PASGR_NUM": 6101.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ud68c\ub8e1",
+		"RIDE_PASGR_NUM": 11297.0,
+		"ALIGHT_PASGR_NUM": 10847.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc758\uc815\ubd80",
+		"RIDE_PASGR_NUM": 26060.0,
+		"ALIGHT_PASGR_NUM": 28042.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uac00\ub2a5",
+		"RIDE_PASGR_NUM": 6518.0,
+		"ALIGHT_PASGR_NUM": 5856.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub179\uc591",
+		"RIDE_PASGR_NUM": 4155.0,
+		"ALIGHT_PASGR_NUM": 3731.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc591\uc8fc",
+		"RIDE_PASGR_NUM": 8380.0,
+		"ALIGHT_PASGR_NUM": 6887.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub355\uacc4",
+		"RIDE_PASGR_NUM": 1897.0,
+		"ALIGHT_PASGR_NUM": 1641.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub355\uc815",
+		"RIDE_PASGR_NUM": 6211.0,
+		"ALIGHT_PASGR_NUM": 5396.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc9c0\ud589",
+		"RIDE_PASGR_NUM": 6961.0,
+		"ALIGHT_PASGR_NUM": 6995.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub3d9\ub450\ucc9c\uc911\uc559",
+		"RIDE_PASGR_NUM": 3729.0,
+		"ALIGHT_PASGR_NUM": 3547.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ubcf4\uc0b0",
+		"RIDE_PASGR_NUM": 2024.0,
+		"ALIGHT_PASGR_NUM": 1925.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\ub3d9\ub450\ucc9c",
+		"RIDE_PASGR_NUM": 1919.0,
+		"ALIGHT_PASGR_NUM": 2242.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc6d0\uc120",
+		"SUB_STA_NM": "\uc18c\uc694\uc0b0",
+		"RIDE_PASGR_NUM": 4725.0,
+		"ALIGHT_PASGR_NUM": 3632.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc11c\uc6b8\uc5ed",
+		"RIDE_PASGR_NUM": 1843.0,
+		"ALIGHT_PASGR_NUM": 1625.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc2e0\ucd0c",
+		"RIDE_PASGR_NUM": 620.0,
+		"ALIGHT_PASGR_NUM": 669.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud6a8\ucc3d\uacf5\uc6d0\uc55e",
+		"RIDE_PASGR_NUM": 1363.0,
+		"ALIGHT_PASGR_NUM": 1423.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uacf5\ub355",
+		"RIDE_PASGR_NUM": 1686.0,
+		"ALIGHT_PASGR_NUM": 1609.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc11c\uac15\ub300",
+		"RIDE_PASGR_NUM": 1727.0,
+		"ALIGHT_PASGR_NUM": 1726.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud64d\ub300\uc785\uad6c",
+		"RIDE_PASGR_NUM": 2013.0,
+		"ALIGHT_PASGR_NUM": 3515.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uac00\uc88c",
+		"RIDE_PASGR_NUM": 3547.0,
+		"ALIGHT_PASGR_NUM": 3442.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ub514\uc9c0\ud138\ubbf8\ub514\uc5b4\uc2dc\ud2f0",
+		"RIDE_PASGR_NUM": 2189.0,
+		"ALIGHT_PASGR_NUM": 1959.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc218\uc0c9",
+		"RIDE_PASGR_NUM": 1688.0,
+		"ALIGHT_PASGR_NUM": 1718.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud654\uc804",
+		"RIDE_PASGR_NUM": 1439.0,
+		"ALIGHT_PASGR_NUM": 1125.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uac15\ub9e4",
+		"RIDE_PASGR_NUM": 1756.0,
+		"ALIGHT_PASGR_NUM": 1582.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud589\uc2e0",
+		"RIDE_PASGR_NUM": 5818.0,
+		"ALIGHT_PASGR_NUM": 5721.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ub2a5\uace1",
+		"RIDE_PASGR_NUM": 3080.0,
+		"ALIGHT_PASGR_NUM": 2978.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uace1\uc0b0",
+		"RIDE_PASGR_NUM": 391.0,
+		"ALIGHT_PASGR_NUM": 389.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ubc31\ub9c8",
+		"RIDE_PASGR_NUM": 4824.0,
+		"ALIGHT_PASGR_NUM": 4455.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud48d\uc0b0",
+		"RIDE_PASGR_NUM": 4127.0,
+		"ALIGHT_PASGR_NUM": 3931.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc77c\uc0b0",
+		"RIDE_PASGR_NUM": 6910.0,
+		"ALIGHT_PASGR_NUM": 7034.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud0c4\ud604",
+		"RIDE_PASGR_NUM": 6222.0,
+		"ALIGHT_PASGR_NUM": 6137.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc57c\ub2f9",
+		"RIDE_PASGR_NUM": 2945.0,
+		"ALIGHT_PASGR_NUM": 2759.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc6b4\uc815",
+		"RIDE_PASGR_NUM": 4040.0,
+		"ALIGHT_PASGR_NUM": 3696.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uae08\ub989",
+		"RIDE_PASGR_NUM": 4363.0,
+		"ALIGHT_PASGR_NUM": 4267.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uae08\ucd0c",
+		"RIDE_PASGR_NUM": 7645.0,
+		"ALIGHT_PASGR_NUM": 6894.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\uc6d4\ub871",
+		"RIDE_PASGR_NUM": 2117.0,
+		"ALIGHT_PASGR_NUM": 1515.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ud30c\uc8fc",
+		"RIDE_PASGR_NUM": 1317.0,
+		"ALIGHT_PASGR_NUM": 758.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc758\uc120",
+		"SUB_STA_NM": "\ubb38\uc0b0",
+		"RIDE_PASGR_NUM": 6985.0,
+		"ALIGHT_PASGR_NUM": 5965.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uac1c\ubd09",
+		"RIDE_PASGR_NUM": 21894.0,
+		"ALIGHT_PASGR_NUM": 21581.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc624\ub958\ub3d9",
+		"RIDE_PASGR_NUM": 11289.0,
+		"ALIGHT_PASGR_NUM": 10523.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc5ed\uace1",
+		"RIDE_PASGR_NUM": 26171.0,
+		"ALIGHT_PASGR_NUM": 24945.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ubd80\ucc9c",
+		"RIDE_PASGR_NUM": 42112.0,
+		"ALIGHT_PASGR_NUM": 43413.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc1a1\ub0b4",
+		"RIDE_PASGR_NUM": 26156.0,
+		"ALIGHT_PASGR_NUM": 24942.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ubd80\ud3c9",
+		"RIDE_PASGR_NUM": 42728.0,
+		"ALIGHT_PASGR_NUM": 50260.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ubc31\uc6b4",
+		"RIDE_PASGR_NUM": 7667.0,
+		"ALIGHT_PASGR_NUM": 7410.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ub3d9\uc554",
+		"RIDE_PASGR_NUM": 19676.0,
+		"ALIGHT_PASGR_NUM": 19489.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc8fc\uc548",
+		"RIDE_PASGR_NUM": 24603.0,
+		"ALIGHT_PASGR_NUM": 22007.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc81c\ubb3c\ud3ec",
+		"RIDE_PASGR_NUM": 8219.0,
+		"ALIGHT_PASGR_NUM": 7712.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ub3d9\uc778\ucc9c",
+		"RIDE_PASGR_NUM": 18319.0,
+		"ALIGHT_PASGR_NUM": 17501.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc778\ucc9c",
+		"RIDE_PASGR_NUM": 5134.0,
+		"ALIGHT_PASGR_NUM": 4474.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uad6c\uc77c",
+		"RIDE_PASGR_NUM": 9042.0,
+		"ALIGHT_PASGR_NUM": 12694.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc18c\uc0ac",
+		"RIDE_PASGR_NUM": 11529.0,
+		"ALIGHT_PASGR_NUM": 11223.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ubd80\uac1c",
+		"RIDE_PASGR_NUM": 8719.0,
+		"ALIGHT_PASGR_NUM": 8088.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uac04\uc11d",
+		"RIDE_PASGR_NUM": 5684.0,
+		"ALIGHT_PASGR_NUM": 5426.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ub3c4\uc6d0",
+		"RIDE_PASGR_NUM": 2750.0,
+		"ALIGHT_PASGR_NUM": 2832.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc628\uc218(\uc131\uacf5\ud68c\ub300\uc785\uad6c)",
+		"RIDE_PASGR_NUM": 6138.0,
+		"ALIGHT_PASGR_NUM": 5840.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\uc911\ub3d9",
+		"RIDE_PASGR_NUM": 8688.0,
+		"ALIGHT_PASGR_NUM": 8095.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\uc778\uc120",
+		"SUB_STA_NM": "\ub3c4\ud654",
+		"RIDE_PASGR_NUM": 3492.0,
+		"ALIGHT_PASGR_NUM": 3065.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uc2e0\ub0b4",
+		"RIDE_PASGR_NUM": 497.0,
+		"ALIGHT_PASGR_NUM": 528.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uac08\ub9e4",
+		"RIDE_PASGR_NUM": 1315.0,
+		"ALIGHT_PASGR_NUM": 1066.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ubcc4\ub0b4",
+		"RIDE_PASGR_NUM": 1876.0,
+		"ALIGHT_PASGR_NUM": 1922.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ud1f4\uacc4\uc6d0",
+		"RIDE_PASGR_NUM": 2749.0,
+		"ALIGHT_PASGR_NUM": 2444.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uc0ac\ub989",
+		"RIDE_PASGR_NUM": 2859.0,
+		"ALIGHT_PASGR_NUM": 2580.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uae08\uace1",
+		"RIDE_PASGR_NUM": 1095.0,
+		"ALIGHT_PASGR_NUM": 1017.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ud3c9\ub0b4\ud638\ud3c9",
+		"RIDE_PASGR_NUM": 4973.0,
+		"ALIGHT_PASGR_NUM": 4652.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ucc9c\ub9c8\uc0b0",
+		"RIDE_PASGR_NUM": 1139.0,
+		"ALIGHT_PASGR_NUM": 1080.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ub9c8\uc11d",
+		"RIDE_PASGR_NUM": 3076.0,
+		"ALIGHT_PASGR_NUM": 3014.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ub300\uc131\ub9ac",
+		"RIDE_PASGR_NUM": 771.0,
+		"ALIGHT_PASGR_NUM": 521.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uccad\ud3c9",
+		"RIDE_PASGR_NUM": 2429.0,
+		"ALIGHT_PASGR_NUM": 2545.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uc0c1\ucc9c",
+		"RIDE_PASGR_NUM": 484.0,
+		"ALIGHT_PASGR_NUM": 443.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uac00\ud3c9",
+		"RIDE_PASGR_NUM": 2422.0,
+		"ALIGHT_PASGR_NUM": 2846.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uad74\ubd09\uc0b0",
+		"RIDE_PASGR_NUM": 257.0,
+		"ALIGHT_PASGR_NUM": 300.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ubc31\uc591\ub9ac",
+		"RIDE_PASGR_NUM": 415.0,
+		"ALIGHT_PASGR_NUM": 340.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uac15\ucd0c",
+		"RIDE_PASGR_NUM": 627.0,
+		"ALIGHT_PASGR_NUM": 751.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\uae40\uc720\uc815",
+		"RIDE_PASGR_NUM": 558.0,
+		"ALIGHT_PASGR_NUM": 614.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ub0a8\ucd98\ucc9c",
+		"RIDE_PASGR_NUM": 3109.0,
+		"ALIGHT_PASGR_NUM": 3186.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacbd\ucd98\uc120",
+		"SUB_STA_NM": "\ucd98\ucc9c",
+		"RIDE_PASGR_NUM": 1967.0,
+		"ALIGHT_PASGR_NUM": 1849.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uc11c\uc6b8\uc5ed",
+		"RIDE_PASGR_NUM": 10797.0,
+		"ALIGHT_PASGR_NUM": 9457.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uacf5\ub355",
+		"RIDE_PASGR_NUM": 1334.0,
+		"ALIGHT_PASGR_NUM": 1708.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\ud64d\ub300\uc785\uad6c",
+		"RIDE_PASGR_NUM": 11523.0,
+		"ALIGHT_PASGR_NUM": 11235.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\ub514\uc9c0\ud138\ubbf8\ub514\uc5b4\uc2dc\ud2f0",
+		"RIDE_PASGR_NUM": 7254.0,
+		"ALIGHT_PASGR_NUM": 6545.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uae40\ud3ec\uacf5\ud56d",
+		"RIDE_PASGR_NUM": 9741.0,
+		"ALIGHT_PASGR_NUM": 5824.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uacc4\uc591",
+		"RIDE_PASGR_NUM": 9285.0,
+		"ALIGHT_PASGR_NUM": 8499.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uac80\uc554",
+		"RIDE_PASGR_NUM": 8124.0,
+		"ALIGHT_PASGR_NUM": 8197.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uccad\ub77c\uad6d\uc81c\ub3c4\uc2dc",
+		"RIDE_PASGR_NUM": 4024.0,
+		"ALIGHT_PASGR_NUM": 3879.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uc6b4\uc11c",
+		"RIDE_PASGR_NUM": 5432.0,
+		"ALIGHT_PASGR_NUM": 5324.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uacf5\ud56d\ud654\ubb3c\uccad\uc0ac",
+		"RIDE_PASGR_NUM": 1936.0,
+		"ALIGHT_PASGR_NUM": 1817.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uc778\ucc9c\uad6d\uc81c\uacf5\ud56d",
+		"RIDE_PASGR_NUM": 16070.0,
+		"ALIGHT_PASGR_NUM": 14845.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacf5\ud56d\ucca0\ub3c4 1\ud638\uc120",
+		"SUB_STA_NM": "\uc601\uc885",
+		"RIDE_PASGR_NUM": 1883.0,
+		"ALIGHT_PASGR_NUM": 1654.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\uc120\ubc14\uc704",
+		"RIDE_PASGR_NUM": 6651.0,
+		"ALIGHT_PASGR_NUM": 5179.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\uacbd\ub9c8\uacf5\uc6d0",
+		"RIDE_PASGR_NUM": 15600.0,
+		"ALIGHT_PASGR_NUM": 15825.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\ub300\uacf5\uc6d0",
+		"RIDE_PASGR_NUM": 4269.0,
+		"ALIGHT_PASGR_NUM": 4574.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\uacfc\ucc9c",
+		"RIDE_PASGR_NUM": 4630.0,
+		"ALIGHT_PASGR_NUM": 3752.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\uc815\ubd80\uacfc\ucc9c\uccad\uc0ac",
+		"RIDE_PASGR_NUM": 8835.0,
+		"ALIGHT_PASGR_NUM": 7383.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\uc778\ub355\uc6d0",
+		"RIDE_PASGR_NUM": 21263.0,
+		"ALIGHT_PASGR_NUM": 19535.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\ud3c9\ucd0c",
+		"RIDE_PASGR_NUM": 11343.0,
+		"ALIGHT_PASGR_NUM": 11204.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uacfc\ucc9c\uc120",
+		"SUB_STA_NM": "\ubc94\uacc4",
+		"RIDE_PASGR_NUM": 29116.0,
+		"ALIGHT_PASGR_NUM": 28876.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc120\ub989",
+		"RIDE_PASGR_NUM": 3767.0,
+		"ALIGHT_PASGR_NUM": 7306.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ud55c\ud2f0",
+		"RIDE_PASGR_NUM": 13574.0,
+		"ALIGHT_PASGR_NUM": 12884.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ub3c4\uace1",
+		"RIDE_PASGR_NUM": 4704.0,
+		"ALIGHT_PASGR_NUM": 4628.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uad6c\ub8e1",
+		"RIDE_PASGR_NUM": 1473.0,
+		"ALIGHT_PASGR_NUM": 1427.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uac1c\ud3ec\ub3d9",
+		"RIDE_PASGR_NUM": 2890.0,
+		"ALIGHT_PASGR_NUM": 2728.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ub300\ubaa8\uc0b0\uc785\uad6c",
+		"RIDE_PASGR_NUM": 2802.0,
+		"ALIGHT_PASGR_NUM": 2585.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc218\uc11c",
+		"RIDE_PASGR_NUM": 9121.0,
+		"ALIGHT_PASGR_NUM": 9898.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc218\uc6d0",
+		"RIDE_PASGR_NUM": 10442.0,
+		"ALIGHT_PASGR_NUM": 6419.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc11c\uc6b8\uc232",
+		"RIDE_PASGR_NUM": 4423.0,
+		"ALIGHT_PASGR_NUM": 4205.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc555\uad6c\uc815\ub85c\ub370\uc624",
+		"RIDE_PASGR_NUM": 15097.0,
+		"ALIGHT_PASGR_NUM": 17281.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uac15\ub0a8\uad6c\uccad",
+		"RIDE_PASGR_NUM": 5358.0,
+		"ALIGHT_PASGR_NUM": 6295.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc120\uc815\ub989",
+		"RIDE_PASGR_NUM": 4181.0,
+		"ALIGHT_PASGR_NUM": 4391.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uac00\ucc9c\ub300",
+		"RIDE_PASGR_NUM": 7958.0,
+		"ALIGHT_PASGR_NUM": 8147.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ud0dc\ud3c9",
+		"RIDE_PASGR_NUM": 13931.0,
+		"ALIGHT_PASGR_NUM": 13126.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ubaa8\ub780",
+		"RIDE_PASGR_NUM": 25444.0,
+		"ALIGHT_PASGR_NUM": 25924.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc57c\ud0d1",
+		"RIDE_PASGR_NUM": 24628.0,
+		"ALIGHT_PASGR_NUM": 25558.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc11c\ud604",
+		"RIDE_PASGR_NUM": 27187.0,
+		"ALIGHT_PASGR_NUM": 27899.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc218\ub0b4",
+		"RIDE_PASGR_NUM": 11457.0,
+		"ALIGHT_PASGR_NUM": 10811.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc815\uc790",
+		"RIDE_PASGR_NUM": 12733.0,
+		"ALIGHT_PASGR_NUM": 13305.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ubbf8\uae08",
+		"RIDE_PASGR_NUM": 16728.0,
+		"ALIGHT_PASGR_NUM": 17243.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc624\ub9ac",
+		"RIDE_PASGR_NUM": 12225.0,
+		"ALIGHT_PASGR_NUM": 10184.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc774\ub9e4",
+		"RIDE_PASGR_NUM": 4669.0,
+		"ALIGHT_PASGR_NUM": 5054.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ubcf4\uc815",
+		"RIDE_PASGR_NUM": 2138.0,
+		"ALIGHT_PASGR_NUM": 1756.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc8fd\uc804",
+		"RIDE_PASGR_NUM": 14985.0,
+		"ALIGHT_PASGR_NUM": 17260.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uad6c\uc131",
+		"RIDE_PASGR_NUM": 4050.0,
+		"ALIGHT_PASGR_NUM": 3955.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc2e0\uac08",
+		"RIDE_PASGR_NUM": 3643.0,
+		"ALIGHT_PASGR_NUM": 3445.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uae30\ud765",
+		"RIDE_PASGR_NUM": 6769.0,
+		"ALIGHT_PASGR_NUM": 6263.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc0c1\uac08",
+		"RIDE_PASGR_NUM": 4474.0,
+		"ALIGHT_PASGR_NUM": 4093.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uccad\uba85",
+		"RIDE_PASGR_NUM": 3426.0,
+		"ALIGHT_PASGR_NUM": 3137.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc601\ud1b5",
+		"RIDE_PASGR_NUM": 8970.0,
+		"ALIGHT_PASGR_NUM": 8956.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ub9dd\ud3ec",
+		"RIDE_PASGR_NUM": 10679.0,
+		"ALIGHT_PASGR_NUM": 9159.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ub9e4\ud0c4\uad8c\uc120",
+		"RIDE_PASGR_NUM": 3896.0,
+		"ALIGHT_PASGR_NUM": 3510.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\uc218\uc6d0\uc2dc\uccad",
+		"RIDE_PASGR_NUM": 11567.0,
+		"ALIGHT_PASGR_NUM": 14820.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\ubd84\ub2f9\uc120",
+		"SUB_STA_NM": "\ub9e4\uad50",
+		"RIDE_PASGR_NUM": 2133.0,
+		"ALIGHT_PASGR_NUM": 2034.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\ub2ec\uc6d4",
+		"RIDE_PASGR_NUM": 40.0,
+		"ALIGHT_PASGR_NUM": 31.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc6d4\uacf6",
+		"RIDE_PASGR_NUM": 2608.0,
+		"ALIGHT_PASGR_NUM": 2308.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc18c\ub798\ud3ec\uad6c",
+		"RIDE_PASGR_NUM": 5197.0,
+		"ALIGHT_PASGR_NUM": 5445.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc778\ucc9c\ub17c\ud604",
+		"RIDE_PASGR_NUM": 6134.0,
+		"ALIGHT_PASGR_NUM": 6158.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\ud638\uad6c\ud3ec",
+		"RIDE_PASGR_NUM": 3127.0,
+		"ALIGHT_PASGR_NUM": 3055.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\ub0a8\ub3d9\uc778\ub354\uc2a4\ud30c\ud06c",
+		"RIDE_PASGR_NUM": 1156.0,
+		"ALIGHT_PASGR_NUM": 1071.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc6d0\uc778\uc7ac",
+		"RIDE_PASGR_NUM": 4699.0,
+		"ALIGHT_PASGR_NUM": 4530.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc5f0\uc218",
+		"RIDE_PASGR_NUM": 5193.0,
+		"ALIGHT_PASGR_NUM": 5284.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc1a1\ub3c4",
+		"RIDE_PASGR_NUM": 2777.0,
+		"ALIGHT_PASGR_NUM": 2636.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc778\ud558\ub300",
+		"RIDE_PASGR_NUM": 3800.0,
+		"ALIGHT_PASGR_NUM": 3469.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc22d\uc758",
+		"RIDE_PASGR_NUM": 2423.0,
+		"ALIGHT_PASGR_NUM": 2284.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc2e0\ud3ec",
+		"RIDE_PASGR_NUM": 1511.0,
+		"ALIGHT_PASGR_NUM": 1739.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc218\uc778\uc120",
+		"SUB_STA_NM": "\uc778\ucc9c",
+		"RIDE_PASGR_NUM": 1253.0,
+		"ALIGHT_PASGR_NUM": 2509.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc0b0\ubcf8",
+		"RIDE_PASGR_NUM": 16584.0,
+		"ALIGHT_PASGR_NUM": 17948.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\ub300\uc57c\ubbf8",
+		"RIDE_PASGR_NUM": 3566.0,
+		"ALIGHT_PASGR_NUM": 2813.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\ubc18\uc6d4",
+		"RIDE_PASGR_NUM": 4624.0,
+		"ALIGHT_PASGR_NUM": 3987.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc0c1\ub85d\uc218",
+		"RIDE_PASGR_NUM": 18733.0,
+		"ALIGHT_PASGR_NUM": 17562.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\ud55c\ub300\uc55e",
+		"RIDE_PASGR_NUM": 7794.0,
+		"ALIGHT_PASGR_NUM": 7398.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc911\uc559",
+		"RIDE_PASGR_NUM": 17747.0,
+		"ALIGHT_PASGR_NUM": 19720.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uace0\uc794",
+		"RIDE_PASGR_NUM": 7514.0,
+		"ALIGHT_PASGR_NUM": 7113.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\ucd08\uc9c0",
+		"RIDE_PASGR_NUM": 3119.0,
+		"ALIGHT_PASGR_NUM": 2657.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc548\uc0b0",
+		"RIDE_PASGR_NUM": 15913.0,
+		"ALIGHT_PASGR_NUM": 15690.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc2e0\uae38\uc628\ucc9c",
+		"RIDE_PASGR_NUM": 1622.0,
+		"ALIGHT_PASGR_NUM": 1447.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc815\uc655",
+		"RIDE_PASGR_NUM": 7917.0,
+		"ALIGHT_PASGR_NUM": 7781.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc624\uc774\ub3c4",
+		"RIDE_PASGR_NUM": 8315.0,
+		"ALIGHT_PASGR_NUM": 7958.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc548\uc0b0\uc120",
+		"SUB_STA_NM": "\uc218\ub9ac\uc0b0",
+		"RIDE_PASGR_NUM": 3379.0,
+		"ALIGHT_PASGR_NUM": 2580.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\uc6d0\ud765",
+		"RIDE_PASGR_NUM": 5370.0,
+		"ALIGHT_PASGR_NUM": 4462.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\uc0bc\uc1a1",
+		"RIDE_PASGR_NUM": 11656.0,
+		"ALIGHT_PASGR_NUM": 10665.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\uc6d0\ub2f9",
+		"RIDE_PASGR_NUM": 10410.0,
+		"ALIGHT_PASGR_NUM": 10077.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\ud654\uc815",
+		"RIDE_PASGR_NUM": 18150.0,
+		"ALIGHT_PASGR_NUM": 19406.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\ub300\uace1",
+		"RIDE_PASGR_NUM": 1284.0,
+		"ALIGHT_PASGR_NUM": 1044.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\ubc31\uc11d",
+		"RIDE_PASGR_NUM": 11702.0,
+		"ALIGHT_PASGR_NUM": 11715.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\ub9c8\ub450",
+		"RIDE_PASGR_NUM": 7347.0,
+		"ALIGHT_PASGR_NUM": 7748.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\uc815\ubc1c\uc0b0",
+		"RIDE_PASGR_NUM": 12739.0,
+		"ALIGHT_PASGR_NUM": 14022.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\uc8fc\uc5fd",
+		"RIDE_PASGR_NUM": 8617.0,
+		"ALIGHT_PASGR_NUM": 8602.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc77c\uc0b0\uc120",
+		"SUB_STA_NM": "\ub300\ud654",
+		"RIDE_PASGR_NUM": 15184.0,
+		"ALIGHT_PASGR_NUM": 13307.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc7a5\ud56d\uc120",
+		"SUB_STA_NM": "\ubd09\uba85",
+		"RIDE_PASGR_NUM": 1062.0,
+		"ALIGHT_PASGR_NUM": 1024.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc7a5\ud56d\uc120",
+		"SUB_STA_NM": "\uc30d\uc6a9(\ub098\uc0ac\ub81b\ub300)",
+		"RIDE_PASGR_NUM": 2078.0,
+		"ALIGHT_PASGR_NUM": 1871.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc7a5\ud56d\uc120",
+		"SUB_STA_NM": "\uc544\uc0b0",
+		"RIDE_PASGR_NUM": 2660.0,
+		"ALIGHT_PASGR_NUM": 2492.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc7a5\ud56d\uc120",
+		"SUB_STA_NM": "\ubc30\ubc29",
+		"RIDE_PASGR_NUM": 1212.0,
+		"ALIGHT_PASGR_NUM": 995.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc7a5\ud56d\uc120",
+		"SUB_STA_NM": "\uc628\uc591\uc628\ucc9c",
+		"RIDE_PASGR_NUM": 6747.0,
+		"ALIGHT_PASGR_NUM": 6415.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc7a5\ud56d\uc120",
+		"SUB_STA_NM": "\uc2e0\ucc3d(\uc21c\ucc9c\ud5a5\ub300)",
+		"RIDE_PASGR_NUM": 1336.0,
+		"ALIGHT_PASGR_NUM": 1082.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\ud68c\uae30",
+		"RIDE_PASGR_NUM": 27428.0,
+		"ALIGHT_PASGR_NUM": 25703.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc911\ub791",
+		"RIDE_PASGR_NUM": 5401.0,
+		"ALIGHT_PASGR_NUM": 5149.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc0c1\ubd09(\uc2dc\uc678\ubc84\uc2a4\ud130\ubbf8\ub110)",
+		"RIDE_PASGR_NUM": 5290.0,
+		"ALIGHT_PASGR_NUM": 5185.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\ub9dd\uc6b0",
+		"RIDE_PASGR_NUM": 7858.0,
+		"ALIGHT_PASGR_NUM": 7812.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc591\uc6d0",
+		"RIDE_PASGR_NUM": 1246.0,
+		"ALIGHT_PASGR_NUM": 1262.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uad6c\ub9ac",
+		"RIDE_PASGR_NUM": 13323.0,
+		"ALIGHT_PASGR_NUM": 13951.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\ub3c4\ub18d",
+		"RIDE_PASGR_NUM": 7375.0,
+		"ALIGHT_PASGR_NUM": 6500.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc591\uc815",
+		"RIDE_PASGR_NUM": 678.0,
+		"ALIGHT_PASGR_NUM": 595.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\ub355\uc18c",
+		"RIDE_PASGR_NUM": 5782.0,
+		"ALIGHT_PASGR_NUM": 5648.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\ub3c4\uc2ec",
+		"RIDE_PASGR_NUM": 1937.0,
+		"ALIGHT_PASGR_NUM": 1652.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\ud314\ub2f9",
+		"RIDE_PASGR_NUM": 864.0,
+		"ALIGHT_PASGR_NUM": 928.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc6b4\uae38\uc0b0",
+		"RIDE_PASGR_NUM": 921.0,
+		"ALIGHT_PASGR_NUM": 931.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc591\uc218",
+		"RIDE_PASGR_NUM": 1804.0,
+		"ALIGHT_PASGR_NUM": 1870.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc2e0\uc6d0",
+		"RIDE_PASGR_NUM": 169.0,
+		"ALIGHT_PASGR_NUM": 155.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uad6d\uc218",
+		"RIDE_PASGR_NUM": 691.0,
+		"ALIGHT_PASGR_NUM": 721.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc544\uc2e0",
+		"RIDE_PASGR_NUM": 672.0,
+		"ALIGHT_PASGR_NUM": 633.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc624\ube48",
+		"RIDE_PASGR_NUM": 335.0,
+		"ALIGHT_PASGR_NUM": 312.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc591\ud3c9",
+		"RIDE_PASGR_NUM": 3488.0,
+		"ALIGHT_PASGR_NUM": 3563.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc6d0\ub355",
+		"RIDE_PASGR_NUM": 371.0,
+		"ALIGHT_PASGR_NUM": 391.0,
+		"WORK_DT": "20170101"
+	},
+	{
+		"USE_DT": "20161224",
+		"LINE_NUM": "\uc911\uc559\uc120",
+		"SUB_STA_NM": "\uc6a9\ubb38",
+		"RIDE_PASGR_NUM": 2480.0,
+		"ALIGHT_PASGR_NUM": 2706.0,
+		"WORK_DT": "20170101"
+	}
+]

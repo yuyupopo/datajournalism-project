@@ -47,8 +47,8 @@ def main():
     }
 
     if mode not in mode_run_map:
-        parser.error('Mode: {} not possible. Please specify one of: {}'.format(
-            mode, list(mode_run_map.keys())
+        parser.error('Mode: {} invalid. \n Please specify one of: {}'.format(
+            mode, ', '.join(list(mode_run_map.keys()))
         ))
 
     mode_run_map[mode](args)
